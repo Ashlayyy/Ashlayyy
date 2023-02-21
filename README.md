@@ -2,7 +2,7 @@
 <h3 align="center">I am a young developer who is learning to code</h3>
 
 - 🌱 I’m currently learning **PHP, Angular, React and Vue**
-- 🌱 My pronouns are She/Her
+- 🚻 My pronouns are She/Her
 
 <!--
 <h3 align="left">Connect with me:</h3>
