@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ashlay</h1>
+<h1 align="center">Hi, I'm Ashlay 🏳️‍⚧️</h1>
 <h3 align="center">I am a developer who loves to code (almost) everything</h3>
 
 - 🌱 I’m currently learning the **MEVN** stack
