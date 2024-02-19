@@ -14,7 +14,7 @@
   <img align="center" src="https://vercel-repository-chi.vercel.app/api?username=Ashlayyy&count_private=true&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/Ashlayyy">
-  <img align="center" src="https://vercel-repository-chi.vercel.app/api/top-langs/?username=Ashlayyy&layout=donut&theme=light&langs_count=8" />
+  <img align="center" src="https://vercel-repository-chi.vercel.app/api/top-langs/?username=Ashlayyy&layout=donut-vertical&theme=light&langs_count=10" />
 </a>
 <a href="https://github.com/Ashlayyy">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlayyy&theme=light&hide_border=false" width="360" >
