@@ -7,17 +7,14 @@
   
 <p align="center">
   <img alig src="https://vercel-repository-chi.vercel.app/?username=Ashlayyy&theme=dark&column=-1" />
-  <img alig src="https://github-profile-trophy.vercel.app/?username=Ashlayyy&theme=dark&column=-1" />
 </p>
 
 <div style="display: flex;">
 <a href="https://github.com/Ashlayyy">
   <img align="center" src="https://vercel-repository-chi.vercel.app/api?username=Ashlayyy&count_private=true&show_icons=true&theme=light" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ashlayyy&count_private=true&show_icons=true&theme=light" />
 </a>
 <a href="https://github.com/Ashlayyy">
   <img align="center" src="https://vercel-repository-chi.vercel.app/api/top-langs/?username=Ashlayyy&layout=donut&theme=light&langs_count=8" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashlayyy&layout=donut&theme=light&langs_count=8" />
 </a>
 </div>
 
