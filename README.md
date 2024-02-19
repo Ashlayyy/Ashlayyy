@@ -16,6 +16,9 @@
 <a href="https://github.com/Ashlayyy">
   <img align="center" src="https://vercel-repository-chi.vercel.app/api/top-langs/?username=Ashlayyy&layout=donut&theme=light&langs_count=8" />
 </a>
+<a href="https://github.com/Ashlayyy">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlayyy&theme=vue-dark&hide_border=false" width="360" >
+</a>
 </div>
 
 <h3 align="left">Languages and Tools:</h3>
