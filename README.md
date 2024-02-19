@@ -6,7 +6,7 @@
 - 🚻 My pronouns are She/Her
   
 <p align="center">
-  <img alig src="https://vercel-repository-chi.vercel.app/?username=Ashlayyy&theme=dark&column=-1" />
+  <img alig src="https://vercel-repository-chi.vercel.app/?username=Ashlayyy&theme=dark&column=1" />
 </p>
 
 <div style="display: flex;">
