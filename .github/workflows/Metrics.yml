@@ -13,7 +13,7 @@ jobs:
         with:
           token: ${{ secrets.METRCIS_TOKEN }}
           user: Ashlayyy
-          config_timezone: Central European Time
+          config_timezone: Europe/Amsterdam
           committer_message: "chore: update metrics"
           template: classic
           base: header, activity, community, repositories, metadata
