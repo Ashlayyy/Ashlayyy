@@ -20,3 +20,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlayyy&theme=light&hide_border=false" width="360" >
 </a>
 </div>
+<picture>
+  <img src="/github-metrics.svg" alt="Metrics">
+</picture>
