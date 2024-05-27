@@ -8,18 +8,6 @@
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Ashlayyy&theme=dark&column=-1" />
 </p>
-
-<div style="display: flex;">
-<a href="https://github.com/Ashlayyy">
-  <img align="center" src="https://vercel-repository-chi.vercel.app/api?username=Ashlayyy&count_private=true&show_icons=true&theme=light" />
-</a>
-<a href="https://github.com/Ashlayyy">
-  <img align="center" src="https://vercel-repository-chi.vercel.app/api/top-langs/?username=Ashlayyy&layout=donut&theme=light&langs_count=10" />
-</a>
-<a href="https://github.com/Ashlayyy">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashlayyy&theme=light&hide_border=false" width="360" >
-</a>
-</div>
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
 </picture>
