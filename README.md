@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently working with the **MEVN** stack
 - 🌷 I also have experience with **HTML&CSS&JS, SCSS/SASS, Nodejs, Express.js and PHP**
-- 🚻 My pronouns are She/Her
+- 🚻 My pronouns are She/They
   
 <p align="center">
   <img alig src="https://github-profile-trophy.vercel.app/?username=Ashlayyy&theme=dark&column=-1" />
